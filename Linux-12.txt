@@ -1,0 +1,66 @@
+-------Linux--------
+
+
+mkdir----make directory
+ls----list(files and folders)
+flag----to do detailed task or to fetch the detailed data
+denoted----- " -alphabets "
+ls -a
+ls -l
+ls -al or -la
+
+pwd----present working directory
+
+cd----change directory
+
+mkdir -p d1/d2/d3
+mkdir r1 r1/r2 r1/r3 r1/r2/r4
+
+
+---file creation---
+touch----multiple files in a single go,empty files,cannot add any data
+
+echo---adds the data to new or existing file,no modification of previous data
+echo "data" > filename
+echo "data" >> filename ---- to append
+
+cat----view the data from the files
+
+editors---nano,vi
+nano----nano filename
+        enter or modify data
+        ctrl+s---save
+        ctrl+x---exit
+
+vi------vi filename
+        click "i" from keyboard
+        enter or modify data
+        click "esc" from keyboard
+        provide ":wq"---write and quit
+
+---deletion of folders and files---
+rmdir foldername----empty directory
+rm -r foldername---- non-empty directory
+-r----recursive---again and again
+rm filename
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
